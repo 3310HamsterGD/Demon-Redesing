@@ -1,0 +1,112 @@
+{
+  "id": "3310HamsterGD.demonsmod",
+  "name": "Demon Redesign",
+  "version": "1.0.0",
+  "description": "Changes the appearance of demons",
+  "developer": "3310HamsterGD",
+  "geode": {
+    "minVersion": "4.6.3"
+  },
+  "difficulties": [
+    {
+      "id": "very_easy_demon",
+      "name": "Very Easy Demon",
+      "color": "#54B6FF",
+      "icon": "demons/veryEasyDemon.png",
+      "reward": {
+        "blueStars": 1,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "easy_demon",
+      "name": "Easy Demon",
+      "color": "#3BA8FF",
+      "icon": "demons/easyDemon.png",
+      "reward": {
+        "blueStars": 2,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "medium_demon",
+      "name": "Medium Demon",
+      "color": "#37CC75",
+      "icon": "demons/mediumDemon.png",
+      "reward": {
+        "blueStars": 3,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "hard_demon",
+      "name": "Hard Demon",
+      "color": "#FF9A4F",
+      "icon": "demons/hardDemon.png",
+      "reward": {
+        "blueStars": 4,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "insane_demon",
+      "name": "Insane Demon",
+      "color": "#FF5555",
+      "icon": "demons/insaneDemon.png",
+      "reward": {
+        "blueStars": 5,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "crazy_demon",
+      "name": "Crazy Demon",
+      "color": "#AE00FF",
+      "icon": "demons/crazyDemon.png",
+      "reward": {
+        "blueStars": 6,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "extreme_demon",
+      "name": "Extreme Demon",
+      "color": "#A30000",
+      "icon": "demons/extremeDemon.png",
+      "reward": {
+        "blueStars": 7,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "master_demon",
+      "name": "Master Demon",
+      "color": "#0000FF",
+      "icon": "demons/masterDemon.png",
+      "reward": {
+        "blueStars": 8,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "legendary_demon",
+      "name": "Legendary Demon",
+      "color": "#FFD700",
+      "icon": "demons/legendaryDemon.png",
+      "reward": {
+        "blueStars": 9,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    },
+    {
+      "id": "burnt_demon",
+      "name": "Burnt Demon",
+      "color": "#8B0000",
+      "icon": "demons/burntDemon.png",
+      "reward": {
+        "blueStars": 10,
+        "icon": "blue stars/bluestar_32.png"
+      }
+    }
+  ]
+}
